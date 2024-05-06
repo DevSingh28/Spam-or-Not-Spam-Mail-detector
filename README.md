@@ -6,7 +6,7 @@ This project aims to classify emails as either "SPAM" or "NOT SPAM" using differ
 
 ## Dataset
 
-The dataset used in this project is `spam_ham_dataset.csv`, which contains email texts and their corresponding labels (spam or ham). It was preprocessed to handle missing values and duplicates.
+The dataset used in this project is `spam_ham_dataset.csv` https://www.kaggle.com/datasets/venky73/spam-mails-dataset , which contains email texts and their corresponding labels (spam or ham). It was preprocessed to handle missing values and duplicates.
 
 ## Models Explored
 
